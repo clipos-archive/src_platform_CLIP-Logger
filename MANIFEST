@@ -1,0 +1,5 @@
+Makefile.PL
+MANIFEST
+README
+t/CLIP-Logger.t
+lib/CLIP/Logger.pm

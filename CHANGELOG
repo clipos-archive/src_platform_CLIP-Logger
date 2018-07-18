@@ -1,0 +1,25 @@
+# CLIP ChangeLog for dev-perl/CLIP-Pkg-Base
+
+*CLIP-Logger-1.0-r2 (20 Dec 2013)
+
+  20 Dec 2013; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Logger-1.0-r2.ebuild, -CLIP-Logger-1.0-r1.ebuild:
+  Force rebuild.
+
+*CLIP-Logger-1.0-r1 (16 May 2011)
+
+  16 May 2011; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Logger-1.0-r1.ebuild, -CLIP-Logger-1.0.ebuild:
+  Rbump to force rebuild.
+
+*CLIP-Logger-1.0 (21 Oct 2008)
+
+  21 Oct 2008; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Logger-1.0.ebuild, -CLIP-Logger-0.1.ebuild:
+  First 'stable' version, with full documentation.
+
+*CLIP-Logger-0.1 (21 Aug 2008)
+
+  21 Aug 2008; Vincent Strubel <clipos@ssi.gouv.fr>
+  CLIP-Logger-0.1.ebuild:
+  Initial import. Logging functions for CLIP modules.
